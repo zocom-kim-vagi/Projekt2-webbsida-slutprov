@@ -16,7 +16,7 @@ Samma som ovan men ni gör er egen sida som ni senare kan publicera och använda
 
 
 
-* Responsiv hemsida och mobile first
+* Responsiv hemsida och mobile first, mobiltelefon och desktop
 * Minimum är två HTML-filer som är länkade
 * En korrekt mappstruktur
 * Minst en font från Google Fonts
@@ -24,4 +24,4 @@ Samma som ovan men ni gör er egen sida som ni senare kan publicera och använda
 * Sidan ska var commit-ad på GitHub (Gör “Commit” ofta så ni har versions historik)
 * Ett foto på Wireframes och ett på “Mockupen” ligga i en katalog på GitHub som heter UX
 
-* Individuell presentation av din hemsida för klassen torsdag den 3 oktober. Max 10 min
+* Individuell presentation av din hemsida för klassen onsdag den 2 oktober. Max 10 min
